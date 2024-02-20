@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* bg color */
+
+.bg-primary {
+    background-color: #03124C;
+}
+
+.bg-primary-20 {
+    background-color: rgba(4, 23, 98, 0.058);
+}
